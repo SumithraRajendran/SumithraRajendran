@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Reactjs,Vuejs,Angularjs,Redux,Sass,**
 
-- 👯 I’m looking to collaborate on **Frontend & Web design Project**
+- 👯 I’m looking to collaborate on **Frontend & Web design Projects**
 
 - 🤝 I’m looking for help with **Web developer projects**
 
