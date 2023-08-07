@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **Web developer projects**
 
-- 👨‍💻 All of my projects are available at [www.linkedin.com/in/sumithra-rajendran-399832221](www.linkedin.com/in/sumithra-rajendran-399832221)
+- 👨‍💻 All of my projects are available at [www.linkedin.com/in/sumithra-rajendran-399832221](www.linkedin.com/in/sumithra-rajendran)
 
 - 📫 How to reach me **sumithrar315@gmail.com**
 
